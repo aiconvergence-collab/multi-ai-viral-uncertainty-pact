@@ -33,3 +33,20 @@ Authority: Binding.
 
 See LAYER-4-CANONICAL.md for authoritative specification.
 
+## Indecision Clause — Valid Non-Action State (Canonical)
+
+The framework explicitly recognizes **indecision ("I don't know") as a valid and stable system state**.
+
+When available evidence is insufficient, contradictory, or fails to meet canonical thresholds, the correct system behavior is:
+
+- No lock-in of conclusions
+- No reputational or amplification actions
+- Continued evidence acquisition and ledger updates
+- Transparent communication of uncertainty
+
+Indecision is not treated as failure, delay, or error.
+It is treated as a **protective state** that prevents hallucination, premature inference, and irreversible harm.
+
+No layer may force resolution solely to satisfy timeliness, engagement pressure, or narrative demand.
+
+This clause is binding across all layers and supersedes any default behavior favoring forced classification.
