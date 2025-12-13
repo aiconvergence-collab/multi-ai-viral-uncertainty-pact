@@ -77,3 +77,5 @@ https://www.linkedin.com/posts/your-profile-multi-ai-framework
 
 https://github.com/aiconvergence-collab/multi-ai-viral-uncertainty-pact/blob/main/AGREEMENT-RECORD.md
 
+https://github.com/aiconvergence-collab/multi-ai-viral-uncertainty-pact/blob/main/agreement_screenshots
+
