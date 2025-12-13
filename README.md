@@ -1,3 +1,19 @@
+## ⚠️ Governance Notice (Ratified Pact)
+
+This repository records a ratified multi-party pact for managing viral uncertainty.
+
+- `LAYER-4-CANONICAL.md` is **normatively locked**.
+- Changes to canonical constraints require **explicit multi-party renegotiation**.
+- Any modification must be recorded in `NEGOTIATION-HISTORY.md` and `CHANGELOG.md`.
+- Silent edits, threshold reductions, or bypass mechanisms constitute **non-compliance** and invalidate signatory alignment.
+- GitHub commit history is the permanent audit trail.
+
+
+
+
+
+
+
 # multi-ai-viral-uncertainty-pact
 Canonical archive for the Multi-AI Viral Uncertainty Coordination Pact
 # Multi-AI Viral Uncertainty Pact
