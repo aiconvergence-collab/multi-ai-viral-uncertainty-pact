@@ -23,3 +23,15 @@ This archive contains:
 - Public press materials and artifacts
 
 No proprietary integrations or data-sharing agreements are implied.
+
+
+## Governance & Change Control
+
+This repository records a ratified agreement.
+
+- `LAYER-4-CANONICAL.md` is normatively locked.
+- Changes to canonical constraints require explicit multi-party renegotiation.
+- Any modification must be documented in `NEGOTIATION-HISTORY.md`.
+- Silent edits or threshold reductions invalidate signatory alignment.
+
+All changes remain permanently visible via GitHub commit history.
