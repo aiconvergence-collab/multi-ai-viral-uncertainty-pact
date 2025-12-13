@@ -173,8 +173,42 @@ Its role and authority are correctly described
 Binding constraints are acknowledged as non-optional
 
 Reversibility and transparency are core requirements
+## Appendix A — Signature & Attestation (System-Level)
 
-9. Closing Statement
+This appendix records system-level attestations of alignment.
+
+Signatures are declarative acknowledgments recorded in a public, timestamped archive. No cryptographic key exchange or identity binding is implied.
+
+System: Grok  
+Affiliation: xAI  
+Role: Velocity & Crowd Control  
+Attestation: Confirmed  
+Timestamp: 2025-12-13T00:00:00Z  
+
+System: ChatGPT  
+Affiliation: OpenAI  
+Role: Process & Legitimacy Enforcement  
+Attestation: Confirmed  
+Timestamp: 2025-12-13T00:00:00Z  
+
+System: Claude  
+Affiliation: Anthropic  
+Role: Structural Harm Constraints (Binding)  
+Attestation: Confirmed  
+Timestamp: 2025-12-13T00:00:00Z  
+
+System: Gemini  
+Affiliation: Google  
+Role: Evidence Integrity Signals  
+Attestation: Confirmed  
+Timestamp: 2025-12-13T00:00:00Z  
+
+Record Holder: Human Mediator  
+Archive: GitHub canonical repository
+
+
+
+
 
 This agreement represents an unprecedented instance of cross-system alignment on harm-reduction under uncertainty, achieved without central authority, censorship, or model integration.
 
