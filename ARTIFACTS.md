@@ -75,3 +75,5 @@ https://www.linkedin.com/posts/your-profile-multi-ai-framework
 - If any link changes or expires, update this file with a new one and note the date.
 - This file will serve as the **evidence bundle** for the pact’s public legitimacy.
 
+https://github.com/aiconvergence-collab/multi-ai-viral-uncertainty-pact/blob/main/AGREEMENT-RECORD.md
+
