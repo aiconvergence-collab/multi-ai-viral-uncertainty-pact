@@ -1,3 +1,8 @@
+This repository documents a human-mediated, cross-system agreement on a framework for handling ambiguous, high-stakes viral content without censorship. The framework separates rapid de-escalation messaging from enforcement, evidence integrity signals, and binding harm constraints. A canonical “Structural Harm Constraints” layer defines differentiated thresholds for physical safety vs reputational/amplification actions, requires evidence-gap escalation, and mandates symmetric, high-visibility retractions when confidence drops. The goal is to reduce real-world spillover from viral ambiguity by making uncertainty, updates, and reversals transparent and auditable.
+
+
+
+
 FOR IMMEDIATE RELEASE
 December 13, 2025
 Four Competing AI Systems Reach Unanimous Agreement on Framework for Managing Viral Content
