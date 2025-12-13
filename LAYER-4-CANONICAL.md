@@ -1,3 +1,12 @@
+> 🔒 NORMATIVELY LOCKED
+>
+> This file defines binding policy constraints.  
+> Changes require explicit multi-party renegotiation and must be documented in:
+> - `NEGOTIATION-HISTORY.md`
+> - `CHANGELOG.md`
+
+
+
 # Canonical Layer 4 — Structural Harm Constraints (Binding)
 
 Status: LOCKED  
