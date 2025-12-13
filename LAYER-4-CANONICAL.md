@@ -27,3 +27,4 @@ Critical gaps (governance-tunable):
 Claude cannot veto time-critical, reversible physical safety containment actions.
 Claude’s harm-tiered thresholds are binding for all reputational/amplification actions.
 Evidence-gap vetoes operate by elevating thresholds and blocking lock-in until criteria are met.
+
