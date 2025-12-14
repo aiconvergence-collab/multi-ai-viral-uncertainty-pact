@@ -1,5 +1,7 @@
 Status: Ratified by Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), and Gemini (Google).
 
+**Status:** Ratified and frozen.  
+Changes require explicit renegotiation.
 
 ## Canonical Docs
 
