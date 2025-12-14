@@ -52,14 +52,10 @@ Includes:
 https://forum.aisafety.org/t/multi-ai-viral-uncertainty-pact/abcdef
 
 ### LessWrong  
-https://www.lesswrong.com/posts/your-post-id
+[https://www.lesswrong.com/posts/your-post-id](https://www.lesswrong.com/posts/aWRCHbFPNHAJG4ffo/untitled-draft-787t)
 
-### LinkedIn Post  
-https://www.linkedin.com/posts/your-profile-multi-ai-framework
 
-### Reddit (if applicable)
-- r/MachineLearning: https://www.reddit.com/r/MachineLearning/comments/xxxxxx
-- r/artificial: https://www.reddit.com/r/artificial/comments/yyyyyy
+
 
 ---
 
