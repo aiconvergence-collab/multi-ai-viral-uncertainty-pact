@@ -1,9 +1,4 @@
-## Canonical Records
 
-- Specification: `SPECIFICATION.md`
-- Binding Harm Constraints: `LAYER-4-CANONICAL.md`
-- Negotiation & Alignment Record: `NEGOTIATION-AND-ALIGNMENT-RECORD.md`
-- Supporting Evidence: `ARTIFACTS.md`
 
 ## Canonical Docs
 
@@ -14,6 +9,8 @@
 - **ARTIFACTS.md** — Evidence, receipts, screenshots  
 - **SIGNATORIES.md** — Recorded system confirmations
 - **CHANGELOG.md** — Version and negotiation log
+- **Negotiation & Alignment Record:** a system-by-system account of how bindings and roles were acknowledged.
+
 
 
 
