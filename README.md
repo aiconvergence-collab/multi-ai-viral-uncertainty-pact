@@ -1,3 +1,15 @@
+## Canonical Records
+
+- Specification: `SPECIFICATION.md`
+- Binding Harm Constraints: `LAYER-4-CANONICAL.md`
+- Negotiation & Alignment Record: `NEGOTIATION-AND-ALIGNMENT-RECORD.md`
+- Supporting Evidence: `ARTIFACTS.md`
+
+
+
+
+
+
 ## ⚠️ Governance Notice (Ratified Pact)
 
 This repository records a ratified multi-party pact for managing viral uncertainty.
@@ -7,10 +19,6 @@ This repository records a ratified multi-party pact for managing viral uncertain
 - Any modification must be recorded in `NEGOTIATION-HISTORY.md` and `CHANGELOG.md`.
 - Silent edits, threshold reductions, or bypass mechanisms constitute **non-compliance** and invalidate signatory alignment.
 - GitHub commit history is the permanent audit trail.
-
-
-
-
 
 
 
