@@ -10,6 +10,7 @@
 - **SIGNATORIES.md** — Recorded system confirmations
 - **CHANGELOG.md** — Version and negotiation log
 - **Negotiation & Alignment Record:** a system-by-system account of how bindings and roles were acknowledged.
+  https://github.com/aiconvergence-collab/multi-ai-viral-uncertainty-pact/blob/main/NEGOTIATION-AND-ALIGNMENT-RECORD.md
 
 
 
