@@ -56,12 +56,16 @@ https://forum.aisafety.org/t/multi-ai-viral-uncertainty-pact/abcdef
 ### LessWrong  
 [https://www.lesswrong.com/posts/your-post-id](https://www.lesswrong.com/posts/aWRCHbFPNHAJG4ffo/untitled-draft-787t)
 
+Screenshots of real time acceptance of the 4 way agreement
+
 
 
 
 ---
 
 ## 🎥 Media 
+
+
 
 
 
