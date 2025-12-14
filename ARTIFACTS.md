@@ -1,3 +1,5 @@
+The authoritative record of negotiation and alignment is maintained in `NEGOTIATION-AND-ALIGNMENT-RECORD.md`.
+
 # Supporting Artifacts — Multi-AI Viral Uncertainty Pact
 
 This file lists *external evidence and public records* relevant to the Multi-AI Viral Uncertainty Pact.  
