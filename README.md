@@ -5,6 +5,17 @@
 - Negotiation & Alignment Record: `NEGOTIATION-AND-ALIGNMENT-RECORD.md`
 - Supporting Evidence: `ARTIFACTS.md`
 
+## Canonical Docs
+
+- **PACT.md** — Formal agreement text  
+- **LAYER-4-CANONICAL.md** — Binding harm-prevention policy  
+- **SPECIFICATION.md** — Full technical design  
+- **NEGOTIATION-HISTORY.md** — How agreement evolved  
+- **ARTIFACTS.md** — Evidence, receipts, screenshots  
+- **SIGNATORIES.md** — Recorded system confirmations
+- **CHANGELOG.md** — Version and negotiation log
+
+
 
 
 
