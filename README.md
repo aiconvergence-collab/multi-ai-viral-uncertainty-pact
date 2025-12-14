@@ -1,3 +1,4 @@
+Status: Ratified by Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), and Gemini (Google).
 
 
 ## Canonical Docs
