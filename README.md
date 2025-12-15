@@ -1,7 +1,9 @@
-Status: Ratified by Grok (xAI), ChatGPT (OpenAI), Claude (Anthropic), and Gemini (Google).
+Status Clarification
+This repository documents a human-mediated, multi-model design exercise exploring coordination protocols for managing viral uncertainty.
 
-**Status:** Ratified and frozen.  
-Changes require explicit renegotiation.
+It does not represent a corporate agreement, deployed system behavior, or official endorsement by xAI, OpenAI, Anthropic, or Google.
+
+The archive preserves the reasoning process and resulting architecture as a public protocol proposal.
 
 ## Canonical Docs
 
