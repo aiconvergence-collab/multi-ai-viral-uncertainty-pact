@@ -73,3 +73,9 @@ This repository records a ratified agreement.
 - Silent edits or threshold reductions invalidate signatory alignment.
 
 All changes remain permanently visible via GitHub commit history.
+
+## Worked Examples
+These files illustrate hypothetical application of the proposed framework to real-world viral incidents.  
+**Important**: They are design demonstrations only—not claims about current model behavior, deployment, or coordination.
+
+- [Frontier Airlines Flight Altercation (June 2025)](worked-examples/Frontier-Flight-Incident.md)
