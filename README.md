@@ -1,3 +1,15 @@
+## Attribution and Credit
+
+While this framework is public domain and free to use, we request:
+
+1. Attribution: Credit the Multi-AI Coordination Project
+2. Transparency: Document your implementation and results
+3. Contribution: Share improvements back to the community
+
+This is a request, not a legal requirement.
+
+The framework is explicitly not patented and never will be.
+
 Status Clarification
 This repository documents a human-mediated, multi-model design exercise exploring coordination protocols for managing viral uncertainty.
 
@@ -19,11 +31,6 @@ The archive preserves the reasoning process and resulting architecture as a publ
 
 
 
-
-
-
-
-
 ## ⚠️ Governance Notice (Ratified Pact)
 
 This repository records a ratified multi-party pact for managing viral uncertainty.
@@ -35,12 +42,58 @@ This repository records a ratified multi-party pact for managing viral uncertain
 - GitHub commit history is the permanent audit trail.
 
 
+# Harm-Asymmetric Uncertainty Gating Protocol
 
-# multi-ai-viral-uncertainty-pact
-Canonical archive for the Multi-AI Viral Uncertainty Coordination Pact
-# Multi-AI Viral Uncertainty Pact
+**Canonical Archive**: This repository documents a proposed open coordination framework for managing evidentiary uncertainty in high-stakes, viral, or ambiguous scenarios.
 
-## Status: Ratified (December 13, 2025)
+## Core Principle
+The defining feature of the protocol is:
+
+When evidence is incomplete or critically truncated, the system does not default to speculative filling, **false neutrality**, or premature certainty.  
+
+Instead, "I don't know yet" becomes a stable, mechanically enforced outcome — backed by explicit thresholds, harm disaggregation, and reversible gating.
+
+## Key Mechanisms (1–4)
+
+## Key Mechanisms (1–4)
+
+1. **Harm-Asymmetric Thresholds**  
+   Different confidence requirements based on harm type and reversibility:  
+   - Physical harm → moderate threshold (typically contained post-event)  
+   - Reputational harm → high threshold (ongoing, asymmetric, largely irreversible)  
+   Thresholds automatically escalate when critical evidence gaps are detected.
+
+2. **Evidence Gap Detection & Escalation**  
+   Explicit taxonomic checks for missing context (e.g., pre-incident footage, original statements, corroborating accounts).  
+   Gaps trigger mechanical elevation of required confidence before reputational actions are permitted.
+
+3. **Multi-Layer Reasoning Coordination**  
+   Independent model outputs are **interpreted** across complementary roles:  
+   - Layer 1: Immediate de-escalation and truth-seeking signaling  
+   - Layer 2: Mechanical confidence tracking with hysteresis  
+   - Layer 3: Multimodal evidence validation and gap identification  
+   - Layer 4: Binding harm containment constraints and counterfactual maintenance
+
+4. **Reversibility & Auditability**  
+   - Mandatory equal-visibility retractions when confidence drops  
+   - Immutable audit trail of threshold applications and state changes  
+   - Counterfactual hypotheses preserved until actively weakened by evidence
+     
+## Status & Intent
+## Status & Intent
+This is a **design proposal and reference architecture**, not a deployed system, corporate agreement, or operational enforcement mechanism.
+
+The protocol defines decision constraints, not model behavior, and operates entirely at the mediation layer above independent systems.
+
+The protocol is intentionally unpatented and released as an open standard to enable voluntary adoption, extension, and critique. A formal technical paper establishing prior art is in preparation for arXiv submission.
+
+**License**: CC0 1.0 Universal — dedicated to the public domain.  
+No restrictions on implementation, modification, or integration.
+
+## Documentation
+- [`LAYER-4-CANONICAL.md`](LAYER-4-CANONICAL.md) — Normatively locked core protocol text  
+- [`worked-examples/`](worked-examples/) — Illustrative applications to real-world viral incidents  
+- [`NEGOTIATION-HISTORY.md`](NEGOTIATION-HISTORY.md) — Mediated design process record
 
 This repository is the canonical public archive for the **Multi-AI Coordination Framework for Viral Uncertainty Management** (“the Pact”).
 
