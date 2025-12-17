@@ -129,7 +129,8 @@ This repository records a ratified agreement.
 All changes remain permanently visible via GitHub commit history.
 
 ## Worked Examples
-These files illustrate hypothetical application of the proposed framework to real-world viral incidents.  
+These files illustrate hypothetical application of the proposed framework to real-world viral incidents. 
+https://github.com/aiconvergence-collab/multi-ai-viral-uncertainty-pact/blob/main/WORKED-EXAMPLE-Frontier-Flight-Incident.md
 
 ## Medical Research Scope
 See the dedicated statement on intended and prohibited uses in medical contexts:  
