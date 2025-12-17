@@ -24,3 +24,6 @@ The framework defines **decision constraints and communication safeguards only**
 All clinical actions, diagnoses, treatments, and patient-care decisions remain the sole responsibility of qualified healthcare professionals operating under established medical standards, regulatory guidelines, and ethical obligations.
 
 No implementation of this protocol alters or replaces professional medical judgment.
+
+Relation to Evidence-Based Medicine
+This protocol operationalizes principles already foundational to evidence-based medicine, including graded certainty, harm-benefit asymmetry, and provisional conclusions. Unlike traditional frameworks (e.g., GRADE, PRISMA), which rely on discretionary human judgment to manage uncertainty, this architecture enforces uncertainty handling mechanically. “Insufficient evidence” is treated as a stable, actionable system state rather than a narrative weakness, preventing premature conclusions when evidence gaps persist. The protocol thus complements existing medical research standards by encoding restraint, reversibility, and epistemic humility directly into decision processes.
