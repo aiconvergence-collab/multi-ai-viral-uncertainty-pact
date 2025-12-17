@@ -130,6 +130,10 @@ All changes remain permanently visible via GitHub commit history.
 
 ## Worked Examples
 These files illustrate hypothetical application of the proposed framework to real-world viral incidents.  
+
+## Medical Research Scope
+See the dedicated statement on intended and prohibited uses in medical contexts:  
+[MEDICAL-RESEARCH-SCOPE.md](MEDICAL-RESEARCH-SCOPE.md)
 **Important**: They are design demonstrations only—not claims about current model behavior, deployment, or coordination.
 
 - [Frontier Airlines Flight Altercation (June 2025)](worked-examples/Frontier-Flight-Incident.md)
