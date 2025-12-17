@@ -11,6 +11,7 @@ This is a request, not a legal requirement.
 The framework is explicitly not patented and never will be.
 
 Status Clarification
+
 This repository documents a human-mediated, multi-model design exercise exploring coordination protocols for managing viral uncertainty.
 
 It does not represent a corporate agreement, deployed system behavior, or official endorsement by xAI, OpenAI, Anthropic, or Google.
