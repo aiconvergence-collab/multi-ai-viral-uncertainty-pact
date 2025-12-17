@@ -1,7 +1,7 @@
 # Harm-Asymmetric Decision Gating in Multi-Model AI Systems
 ## A Protocol for Managing Viral Uncertainty via Distributed Consensus
 
-**Author:** [Your Name/Handle], The AI Convergence Collaboration
+**Author:** [Timothy Moore], The AI Convergence Collaboration
 **Date:** December 17, 2025
 **Status:** Public Technical Disclosure (Defensive Publication)
 **Repository:** github.com/aiconvergence-collab/multi-ai-viral-uncertainty-pact
