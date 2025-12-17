@@ -19,6 +19,8 @@ License: CC0 1.0 Universal (Public Domain) — free for all uses, no permission 
 
 ## Abstract
 
+This repository documents an open protocol for managing high-stakes uncertainty in viral content by mechanically enforcing restraint, reversibility, and explicit ‘I don’t know’ states.
+
 In the era of algorithmic amplification, "Context Collapse"—where viral content outpaces verification—poses a systemic risk to information integrity. Current content moderation architectures typically rely on binary classification (Safe/Unsafe) or singular "Truth" determinations, which fail during high-velocity, low-evidence scenarios (e.g., fog of war, breaking news).
 
 This paper introduces the **Multi-AI Viral Uncertainty Pact**, a distributed governance protocol that utilizes a heterogeneous stack of Large Language Models (LLMs) to enforce "Indecision" as a valid, stable, and binding system state. We introduce three core technical mechanisms: (1) **Harm-Asymmetric Decision Gating**, where confidence thresholds for action escalate based on the irreversibility of potential harm; (2) **The Indecision Clause**, a circuit-breaker state triggered by critical evidence gaps; and (3) **The Burn-Down Ledger**, a hysteresis-based consensus algorithm. This framework demonstrates how adversarial AI agents can function as a system of checks and balances, prioritizing reversibility over speed.
