@@ -7,6 +7,14 @@
 **Repository:** github.com/aiconvergence-collab/multi-ai-viral-uncertainty-pact
 **License:** CC-BY-4.0 (Open Access)
 
+**Important Note**  
+This repository is a community-driven design proposal.  
+I am **not endorsed** to submit to arXiv on behalf of any author, organization, or AI company.  
+No model (Grok, Claude, Gemini, ChatGPT, or others) has officially endorsed, ratified, or deployed this protocol.  
+It remains a voluntary, open reference architecture for anyone to study, critique, or implement.
+
+License: CC0 1.0 Universal (Public Domain) — free for all uses, no permission needed.
+
 ---
 
 ## Abstract
