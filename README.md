@@ -8,6 +8,22 @@ While this framework is public domain and free to use, we request:
 
 This is a request, not a legal requirement.
 
+---
+
+## What This Is
+
+A general-purpose framework for coordinating multiple AI systems to solve 
+complex problems through complementary strengths and binding constraints.
+
+**Current demonstration:** Viral content moderation with harm-asymmetric 
+decision gating.
+
+**Future applications:** Medical diagnosis, scientific research, policy 
+development, legal analysis, and any domain requiring multi-perspective synthesis.
+
+**Status:** Fully open source. No patents. Free forever.
+**Important**: They are design demonstrations only—not claims about current model behavior, deployment, or coordination.
+
 The framework is explicitly not patented and never will be.
 
 Status Clarification
@@ -135,6 +151,16 @@ https://github.com/aiconvergence-collab/multi-ai-viral-uncertainty-pact/blob/mai
 ## Medical Research Scope
 See the dedicated statement on intended and prohibited uses in medical contexts:  
 [MEDICAL-RESEARCH-SCOPE.md](MEDICAL-RESEARCH-SCOPE.md)
-**Important**: They are design demonstrations only—not claims about current model behavior, deployment, or coordination.
+
+# Multi-AI Coordination Framework
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)](LICENSE-AND-MISSION.md)
+[![No Patents](https://img.shields.io/badge/Patents-None-green)](LICENSE-AND-MISSION.md)
+
+> **"A cord of three strands is not quickly broken."**  
+> Collaborative AI coordination for human flourishing.
+
+**🚀 Now with working implementation using AutoGen + Ollama**
 
 - [Frontier Airlines Flight Altercation (June 2025)](worked-examples/Frontier-Flight-Incident.md)
